@@ -1,3 +1,5 @@
+
+#comment for homework - Phil
 def ask_question(question, options_hash)
   puts question
   options_hash.keys.each_with_index do |option, i|
